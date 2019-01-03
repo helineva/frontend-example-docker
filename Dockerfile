@@ -9,5 +9,5 @@ WORKDIR /app
 
 USER node
 
-EXPOSE 8000
+EXPOSE 5000
 CMD ["npm", "start"]
